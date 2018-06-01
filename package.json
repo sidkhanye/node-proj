@@ -1,0 +1,15 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "Node practice app",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "node",
+    "api"
+  ],
+  "author": "sydney khanye",
+  "license": "ISC"
+}
